@@ -29,7 +29,8 @@ def explore_directory(directory_path, exclude_pattern=None):
                         settings_path = str(settings_file.resolve())
                     else:
                         settings_path = None
-                    
+                    if settings_path == None:
+                        continue
                     subdir_info = {
                         'project_name': sub_item.name,
                         'project_settings_path': settings_path
