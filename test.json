@@ -2,7 +2,12 @@
   "categories": [
     {
       "category": "javascript",
-      "projects": []
+      "projects": [
+        {
+          "project_name": "test",
+          "project_settings_path": "C:\\Users\\Antho\\Desktop\\Projects\\Etc\\Project manager\\TestDir\\javascript\\test\\project_settings.json"
+        }
+      ]
     },
     {
       "category": "other",
@@ -16,6 +21,10 @@
     {
       "category": "python",
       "projects": [
+        {
+          "project_name": "test",
+          "project_settings_path": "C:\\Users\\Antho\\Desktop\\Projects\\Etc\\Project manager\\TestDir\\python\\test\\project_settings.json"
+        },
         {
           "project_name": "test-project",
           "project_settings_path": "C:\\Users\\Antho\\Desktop\\Projects\\Etc\\Project manager\\TestDir\\python\\test-project\\project_settings.json"

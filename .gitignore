@@ -1,2 +1,5 @@
 **/.venv
-**/TestDir/
+**/TestDir
+**/__pycache__
+**/.env
+**/.vscode
